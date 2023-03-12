@@ -1,0 +1,15 @@
+C:\My documents\Тестирование\Final_HW_1Blok\Task_final\bin\Debug\net6.0\Task_final.exe
+C:\My documents\Тестирование\Final_HW_1Blok\Task_final\bin\Debug\net6.0\Task_final.deps.json
+C:\My documents\Тестирование\Final_HW_1Blok\Task_final\bin\Debug\net6.0\Task_final.runtimeconfig.json
+C:\My documents\Тестирование\Final_HW_1Blok\Task_final\bin\Debug\net6.0\Task_final.dll
+C:\My documents\Тестирование\Final_HW_1Blok\Task_final\bin\Debug\net6.0\Task_final.pdb
+C:\My documents\Тестирование\Final_HW_1Blok\Task_final\obj\Debug\net6.0\Task_final.csproj.AssemblyReference.cache
+C:\My documents\Тестирование\Final_HW_1Blok\Task_final\obj\Debug\net6.0\Task_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\My documents\Тестирование\Final_HW_1Blok\Task_final\obj\Debug\net6.0\Task_final.AssemblyInfoInputs.cache
+C:\My documents\Тестирование\Final_HW_1Blok\Task_final\obj\Debug\net6.0\Task_final.AssemblyInfo.cs
+C:\My documents\Тестирование\Final_HW_1Blok\Task_final\obj\Debug\net6.0\Task_final.csproj.CoreCompileInputs.cache
+C:\My documents\Тестирование\Final_HW_1Blok\Task_final\obj\Debug\net6.0\Task_final.dll
+C:\My documents\Тестирование\Final_HW_1Blok\Task_final\obj\Debug\net6.0\refint\Task_final.dll
+C:\My documents\Тестирование\Final_HW_1Blok\Task_final\obj\Debug\net6.0\Task_final.pdb
+C:\My documents\Тестирование\Final_HW_1Blok\Task_final\obj\Debug\net6.0\Task_final.genruntimeconfig.cache
+C:\My documents\Тестирование\Final_HW_1Blok\Task_final\obj\Debug\net6.0\ref\Task_final.dll
